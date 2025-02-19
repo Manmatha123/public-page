@@ -7,6 +7,7 @@ footer{
     width: 100%;background-color: silver;
     text-align: center;display: flex;align-items: center;
     word-spacing: 2px;justify-content: center;
+    z-index: 600;
 }
 #heart{
     color: rgb(255, 0, 0);
